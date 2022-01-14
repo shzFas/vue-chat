@@ -1,3 +1,5 @@
+Demo: https://vue-chatapp.vercel.app/
+
 # Chat app for education Vue.js
 
 ## Stack
